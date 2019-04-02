@@ -108,4 +108,4 @@ groupA  包 groupB 包 viewB，全部super调用不拦截，日志如下（看�
 >+ 子`View`可以通过调用`getParent().requestDisallowInterceptTouchEvent(true)`;  阻止`ViewGroup`对其`MOVE`或者`UP`事件进行拦截；
 
 
-
+[简书地址](https://www.jianshu.com/p/ab13658b1fd2)
